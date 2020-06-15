@@ -1,0 +1,19 @@
+{
+  "name": "tutorial-apollo-server",
+  "version": "1.0.0",
+  "description": "Tutorial de Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[C"
+  },
+  "author": "Edu Lazaro",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.14.4",
+    "graphql": "^15.1.0"
+  }
+}
