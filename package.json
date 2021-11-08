@@ -13,7 +13,7 @@
   "author": "Edu Lazaro",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.14.4",
+    "apollo-server": "^2.25.3",
     "graphql": "^15.1.0"
   }
 }
